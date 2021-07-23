@@ -1,5 +1,5 @@
 #test comment
-#testing pass
+#testing password
 hungry=input("Are you hungry?")
 if hungry=="yes":
     print("eat samosa")
